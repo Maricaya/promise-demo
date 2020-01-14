@@ -1,5 +1,6 @@
 ## promise
-
+实现一个符合promises/A+规范的promise
+规范：https://promisesaplus.com/
 ## 测试
 引入chai和sinon进行测试。启动测试：
 ```js

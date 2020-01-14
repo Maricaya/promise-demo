@@ -35,9 +35,9 @@
   version "5.2.7"
   resolved "https://registry.npm.taobao.org/@types/mocha/download/@types/mocha-5.2.7.tgz#315d570ccb56c53452ff8638738df60726d5b6ea"
 
-"@types/node@^12.7.3":
-  version "12.12.24"
-  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-12.12.24.tgz#d4606afd8cf6c609036b854360367d1b2c78931f"
+"@types/node@^13.1.6":
+  version "13.1.6"
+  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-13.1.6.tgz#076028d0b0400be8105b89a0a55550c86684ffec"
 
 "@types/sinon-chai@^3.2.3":
   version "3.2.3"
